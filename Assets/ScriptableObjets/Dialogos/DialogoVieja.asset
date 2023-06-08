@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9ffdfa6101da8b4f96cbd0be06d35e2, type: 3}
+  m_Name: DialogoVieja
+  m_EditorClassIdentifier: 
+  Nombre: AbuelitaJoJos
+  Icono: {fileID: 21300000, guid: 91f619a1afd6e944e90eb76c9f635c90, type: 3}
+  contieneInteraccionExtra: 0
+  InteraccionExtras: 0
+  Saludo: "Buenas viajera. \xBFLe gustar\xEDa escuchar una anecdota...?"
+  Conversacion:
+  - Frase: "Cuando yo era joven luchaba con grandes monstruos como tu. Pero... uno
+      me dej\xF3 coja "
+  - Frase: "Andate con cuidado ni\xF1e, alli fuera todo es muy peligroso"
+  Despedida: Muchas gracias por escuchar a una vieja destartalada,  espero que volvamos
+    a vernos

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dbafc947edbcbc4cb92592ce93b79df, type: 3}
+  m_Name: ItemIngredienteGalleta
+  m_EditorClassIdentifier: 
+  ID: Galleta
+  Nombre: Galleta de la Fortuna
+  Icono: {fileID: 21300000, guid: 6119acb1352dd764a9d21cb185e7f20b, type: 3}
+  Descripcion: Ingrediente que puede ser usado pa la creacion de cualquier item
+  Tipo: 3
+  esConsumible: 1
+  esAcomulable: 1
+  acumulacionMax: 50
+  Cantidad: 0

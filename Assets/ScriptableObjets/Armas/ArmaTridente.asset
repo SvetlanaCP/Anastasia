@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 049d099b837ceb34c9763766d73fd6a3, type: 3}
+  m_Name: ArmaTridente
+  m_EditorClassIdentifier: 
+  ArmaIcono: {fileID: 21300000, guid: 786b8ab0db41911428414ef3d77bd202, type: 3}
+  IconoSkill: {fileID: -439350062, guid: 99bc542c91899fe4ebf012ad8f0df1f7, type: 3}
+  Tipo: 0
+  "Da\xF1o": 10
+  ProyectilPrefab: {fileID: 1784831846324630712, guid: b8abc184b56ba55479fe0be8b962cb19, type: 3}
+  ManaRerequerida: 15
+  ChanceCritico: 0
+  ChanceBloqueo: 0

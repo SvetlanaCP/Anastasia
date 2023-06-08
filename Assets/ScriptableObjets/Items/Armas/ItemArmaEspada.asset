@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a3dfee45cbb75c41a7dfe2cdf484bf1, type: 3}
+  m_Name: ItemArmaEspada
+  m_EditorClassIdentifier: 
+  ID: ArmaEspada
+  Nombre: Espada
+  Icono: {fileID: 21300000, guid: 473430118f8ad2649b897d501dc3c0a8, type: 3}
+  Descripcion: Espada forjada con una hoja muy afilada
+  Tipo: 0
+  esConsumible: 0
+  esAcomulable: 0
+  acumulacionMax: 1
+  Cantidad: 0
+  Arma: {fileID: 11400000, guid: e60e05ed6952c3045a546ab8cc54ebaf, type: 2}

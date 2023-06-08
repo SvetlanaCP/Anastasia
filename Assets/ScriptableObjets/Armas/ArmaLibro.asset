@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 049d099b837ceb34c9763766d73fd6a3, type: 3}
+  m_Name: ArmaLibro
+  m_EditorClassIdentifier: 
+  ArmaIcono: {fileID: 21300000, guid: fff1bb3a26f770241ac9c93588996fd6, type: 3}
+  IconoSkill: {fileID: 1638353465, guid: a974b677b9217444392cb8c80bf97d0d, type: 3}
+  Tipo: 0
+  "Da\xF1o": 4
+  ProyectilPrefab: {fileID: 1482009089835582751, guid: 5f8fa929afb7de44492c850bfb41c6ee, type: 3}
+  ManaRerequerida: 10
+  ChanceCritico: 1.5
+  ChanceBloqueo: 0

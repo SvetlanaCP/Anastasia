@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acce92485c29f604c9f6bf2dac5b7725, type: 3}
+  m_Name: ListaRecetas
+  m_EditorClassIdentifier: 
+  Recetas:
+  - Nombre: MediPack
+    Item1: {fileID: 11400000, guid: 522dc5c871f156449ac04c68ec251e74, type: 2}
+    Item1CantidadRequerida: 5
+    Item2: {fileID: 11400000, guid: 093aa8cdc7d366849b4ca410f21cc1a7, type: 2}
+    Item2CantidadRequerida: 3
+    ItemResultado: {fileID: 11400000, guid: e3b7272f49d7bda45b821ea52159644d, type: 2}
+    ItemResultadoCantidad: 5
+  - Nombre: Tridente
+    Item1: {fileID: 11400000, guid: 9a8eb4d0a6a24b442b8fce3b0b2177ee, type: 2}
+    Item1CantidadRequerida: 10
+    Item2: {fileID: 11400000, guid: d22e56d3eb7a72a408e1e622e181effd, type: 2}
+    Item2CantidadRequerida: 5
+    ItemResultado: {fileID: 11400000, guid: 71d5c7003daa8684599f5777512ebd42, type: 2}
+    ItemResultadoCantidad: 1
+  - Nombre: Mazo
+    Item1: {fileID: 11400000, guid: fcfc5f2a053bf514c9f568a87b7d98f3, type: 2}
+    Item1CantidadRequerida: 20
+    Item2: {fileID: 11400000, guid: 8ccabd4478ef7a54f90f54021d60a245, type: 2}
+    Item2CantidadRequerida: 5
+    ItemResultado: {fileID: 11400000, guid: 5ff48d6c39705204896bbfc3cfd4fb60, type: 2}
+    ItemResultadoCantidad: 1
+  - Nombre: Hueso
+    Item1: {fileID: 11400000, guid: 6c7e80dda907c2440a3590482ff3dc7f, type: 2}
+    Item1CantidadRequerida: 10
+    Item2: {fileID: 11400000, guid: fee31d79b5613bb46a9f9dc0e5b338d9, type: 2}
+    Item2CantidadRequerida: 5
+    ItemResultado: {fileID: 11400000, guid: 38a539bd9aa360d4284821bbf6b8f362, type: 2}
+    ItemResultadoCantidad: 1
+  - Nombre: Espada
+    Item1: {fileID: 11400000, guid: 8ccabd4478ef7a54f90f54021d60a245, type: 2}
+    Item1CantidadRequerida: 15
+    Item2: {fileID: 11400000, guid: 2098de47baa6ead4a99d665a3793ceaa, type: 2}
+    Item2CantidadRequerida: 5
+    ItemResultado: {fileID: 11400000, guid: bb071d771d0f6794abfdacaac7e996c8, type: 2}
+    ItemResultadoCantidad: 1
+  - Nombre: Libro
+    Item1: {fileID: 11400000, guid: e3b40c70eb60e0b4a925deaae096fb18, type: 2}
+    Item1CantidadRequerida: 10
+    Item2: {fileID: 11400000, guid: d22e56d3eb7a72a408e1e622e181effd, type: 2}
+    Item2CantidadRequerida: 3
+    ItemResultado: {fileID: 11400000, guid: 0ec1716f25ce8524c8ae045ee16c8748, type: 2}
+    ItemResultadoCantidad: 1
+  - Nombre: Vara
+    Item1: {fileID: 11400000, guid: e2558b1946af5914aa11e7fa59173f4d, type: 2}
+    Item1CantidadRequerida: 10
+    Item2: {fileID: 11400000, guid: 615cf268d2ea7804893ed8c9002bf90c, type: 2}
+    Item2CantidadRequerida: 5
+    ItemResultado: {fileID: 11400000, guid: 29f5411d2c0a5c04b8acaa8e92464b61, type: 2}
+    ItemResultadoCantidad: 1
+  - Nombre: Pocion Mana
+    Item1: {fileID: 11400000, guid: 19a24d6c662d9b94c935e69bffd71f34, type: 2}
+    Item1CantidadRequerida: 5
+    Item2: {fileID: 11400000, guid: 784dbbae300fa514c965d2468ef57281, type: 2}
+    Item2CantidadRequerida: 10
+    ItemResultado: {fileID: 11400000, guid: ea8753cd1afc8e74ea7fbefed3539640, type: 2}
+    ItemResultadoCantidad: 10
+  - Nombre: Pocion Vida
+    Item1: {fileID: 11400000, guid: c8d167ffbaa113d46b428ff38a3d533c, type: 2}
+    Item1CantidadRequerida: 10
+    Item2: {fileID: 11400000, guid: 615cf268d2ea7804893ed8c9002bf90c, type: 2}
+    Item2CantidadRequerida: 2
+    ItemResultado: {fileID: 11400000, guid: 522dc5c871f156449ac04c68ec251e74, type: 2}
+    ItemResultadoCantidad: 15

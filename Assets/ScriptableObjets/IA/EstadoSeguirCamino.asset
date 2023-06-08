@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b41321179a0932046aa6a51470e735b1, type: 3}
+  m_Name: EstadoSeguirCamino
+  m_EditorClassIdentifier: 
+  Acciones:
+  - {fileID: 11400000, guid: 3813e2b837a1aa74c87fe2f741c862e9, type: 2}
+  Transiciones:
+  - desicion: {fileID: 11400000, guid: 31e0ec34357c11849914632e1ed40aac, type: 2}
+    EstadoVerdadero: {fileID: 11400000, guid: 1109ee8484ee51046bde284160f8bf58, type: 2}
+    EstadoFalso: {fileID: 11400000, guid: 80dfc3033b2eecc409f19ee332d4f13b, type: 2}

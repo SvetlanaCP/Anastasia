@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 049d099b837ceb34c9763766d73fd6a3, type: 3}
+  m_Name: ArmaHueso
+  m_EditorClassIdentifier: 
+  ArmaIcono: {fileID: 21300000, guid: de29e1993d555454286f982ca0c15e4b, type: 3}
+  IconoSkill: {fileID: -1340786946, guid: 4e89e589b2f3b214ebef52a9c31b4788, type: 3}
+  Tipo: 0
+  "Da\xF1o": 8
+  ProyectilPrefab: {fileID: 2047994670485158477, guid: 45f4cbdd1d0d1e04cb234ca5989624bb, type: 3}
+  ManaRerequerida: 15
+  ChanceCritico: 0
+  ChanceBloqueo: 2

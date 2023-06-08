@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9ffdfa6101da8b4f96cbd0be06d35e2, type: 3}
+  m_Name: DialogoFrutera
+  m_EditorClassIdentifier: 
+  Nombre: Charota
+  Icono: {fileID: 21300000, guid: 60f20f43a41c95f43be94c4e246967ed, type: 3}
+  contieneInteraccionExtra: 0
+  InteraccionExtras: 0
+  Saludo: "Buenas Viajera. \xA1Estas como una flor!"
+  Conversacion:
+  - Frase: Has visto que fruta mas fresca tengo!!! Casi tanto como tu...
+  - Frase: Charota callate que estas casada....
+  - Frase: Perdon por mi descaro, hermosas peras....
+  Despedida: Hasta lueguito hermoso tallo
